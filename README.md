@@ -1,6 +1,6 @@
 ## Hi there 👋
 Стек:
-[](https://github.com/ArtsiomKavaleuski/images/blob/main/maven.png)
+[Maven](https://github.com/ArtsiomKavaleuski/images/blob/main/maven.png)
 
 <!--
 **ArtsiomKavaleuski/ArtsiomKavaleuski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
