@@ -1,5 +1,5 @@
-## Hi there 👋
-Стек:
+# Hi there 👋
+## Стек:
 ![](https://raw.githubusercontent.com/ArtsiomKavaleuski/images/refs/heads/main/microservices.png)
 
 <!--
