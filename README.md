@@ -1,6 +1,20 @@
 # Hi there 👋
 ## Стек:
+![](https://raw.githubusercontent.com/ArtsiomKavaleuski/images/refs/heads/main/java.png)
+![](https://raw.githubusercontent.com/ArtsiomKavaleuski/images/refs/heads/main/git.png)
+![](https://raw.githubusercontent.com/ArtsiomKavaleuski/images/refs/heads/main/spring.png)
+![](https://raw.githubusercontent.com/ArtsiomKavaleuski/images/refs/heads/main/sql.png)
+![](https://raw.githubusercontent.com/ArtsiomKavaleuski/images/refs/heads/main/psql.png)
+![](https://raw.githubusercontent.com/ArtsiomKavaleuski/images/refs/heads/main/maven.png)
+![](https://raw.githubusercontent.com/ArtsiomKavaleuski/images/refs/heads/main/docker.png)
+![](https://raw.githubusercontent.com/ArtsiomKavaleuski/images/refs/heads/main/hibernate.png)
+![](https://raw.githubusercontent.com/ArtsiomKavaleuski/images/refs/heads/main/rest.png)
 ![](https://raw.githubusercontent.com/ArtsiomKavaleuski/images/refs/heads/main/microservices.png)
+![](https://raw.githubusercontent.com/ArtsiomKavaleuski/images/refs/heads/main/postman.png)
+![](https://raw.githubusercontent.com/ArtsiomKavaleuski/images/refs/heads/main/mockito.png)
+![](https://raw.githubusercontent.com/ArtsiomKavaleuski/images/refs/heads/main/junit5.png)
+![](https://raw.githubusercontent.com/ArtsiomKavaleuski/images/refs/heads/main/idea.png)
+![](https://raw.githubusercontent.com/ArtsiomKavaleuski/images/refs/heads/main/json.png)
 
 <!--
 **ArtsiomKavaleuski/ArtsiomKavaleuski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
