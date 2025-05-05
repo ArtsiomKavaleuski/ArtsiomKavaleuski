@@ -1,5 +1,4 @@
-# Hi there 👋
-## Стек:
+# Мой стек:
 ![](https://raw.githubusercontent.com/ArtsiomKavaleuski/images/refs/heads/main/java.png)
 ![](https://raw.githubusercontent.com/ArtsiomKavaleuski/images/refs/heads/main/git.png)
 ![](https://raw.githubusercontent.com/ArtsiomKavaleuski/images/refs/heads/main/spring.png)
