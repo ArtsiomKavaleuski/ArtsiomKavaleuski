@@ -1,4 +1,4 @@
-# Привет! Меня зовут Артём. Я бэкенд-разработчик. Продолжаю изучать безграничные возможности цифровых технологий.
+## Привет! Меня зовут Артём. Я бэкенд-разработчик. Продолжаю изучать безграничные возможности цифровых технологий.
 ## Мой стек:
 ![](https://raw.githubusercontent.com/ArtsiomKavaleuski/images/refs/heads/main/java.png)
 ![](https://raw.githubusercontent.com/ArtsiomKavaleuski/images/refs/heads/main/git.png)
